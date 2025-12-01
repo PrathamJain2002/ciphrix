@@ -222,6 +222,15 @@ VITE_API_URL=http://localhost:5000/api
    - Tokens expire after 30 days
    - Sign out and sign in again if token expires
 
+## Deployment
+
+This application can be deployed to:
+- **Frontend**: Vercel (recommended)
+- **Backend**: Render (recommended)
+- **Database**: MongoDB Atlas (required for production)
+
+See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed step-by-step deployment instructions.
+
 ## License
 
 ISC
